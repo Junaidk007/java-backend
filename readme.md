@@ -33,9 +33,20 @@ Today I have learned about:
 
 Revised Previous Tasks  
 
+## Day 5 Learnings
 
+Today I have learned about:
+- What is a static method and an instance method?
+- What are Scanner objects?
+- What is a string?
+- String pooling
+- Why do we import packages in Java?
+- Use of .equals() method
+- Diff. b/w == and .equals()
+- Primitive and non-primitive data types
+- Created analogies on methods
 
-
+Completed all the theory part of task 3. 
 
 
 
