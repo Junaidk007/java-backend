@@ -48,7 +48,13 @@ Today I have learned about:
 
 Completed all the theory part of task 3. 
 
+## Day 6 Learnings
 
+I did nothing today.
+
+## Day 7 Learnings
+
+Completed the practical part of task - 3, created a student profile.java file and string operations.java file and performed the given tasks.  
 
 
 
