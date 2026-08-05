@@ -56,7 +56,17 @@ I did nothing today.
 
 Completed the practical part of task - 3, created a student profile.java file and string operations.java file and performed the given tasks.  
 
+## Day 8 Learnings
 
+Today I have learned about:
+ - Operators
+ - Types of Operators 
+    1. Arithmetic Operators
+    2. Assignment Operators
+    3. Relational Operators
+    4. Comparison Operators
+    5. Increment and Decrement Operators
+ 6. Associativity and Precedence
 
 
 
@@ -120,4 +130,3 @@ Completed the practical part of task - 3, created a student profile.java file an
 
 
 
-.
