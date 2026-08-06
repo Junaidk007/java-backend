@@ -68,7 +68,12 @@ Today I have learned about:
     5. Increment and Decrement Operators
  6. Associativity and Precedence
 
+## Day 9 Learnings
 
+Today I have learned about:
+ - Type Casting
+ - Packages
+ - wrote a practice code
 
 
 
