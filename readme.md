@@ -75,6 +75,10 @@ Today I have learned about:
  - Packages
  - wrote a practice code
 
+## Day 10 Learnings
+
+Done nothing
+
 
 
 
