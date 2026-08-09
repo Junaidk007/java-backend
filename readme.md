@@ -79,7 +79,18 @@ Today I have learned about:
 
 Done nothing
 
+## Day 11 Learnings
 
+Done a practical part of the task 4. 
+
+## Day 12 Learnings
+
+* Solved all the practical questions 
+* done case-based question 
+* and I've revised conditional statement and loops statement. 
+* Learnt how the block variable is stored in the memory.
+* I understood the importance of an algorithm
+* Stepwise refinement.
 
 
 

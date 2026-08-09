@@ -1,6 +1,4 @@
-## java-basics-notes
-(_type casting, packages, and others_)
----
+## java-basics-notes <br>(_type casting, packages, and others_)
 
 learned about casting and packages
 

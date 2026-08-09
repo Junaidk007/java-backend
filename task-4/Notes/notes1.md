@@ -1,8 +1,6 @@
-## java-basics-notes
-(_operators, associativity and precedence_)
----
+## java-basics-notes <br>(_operators, associativity and precedence_)
 
-## Operators
+## Operators:
 
 **Arithmetic operators**: `+`, `-`, `*`, `/`, `%` these are the operators which are used to perform mathematical computation. 
 
@@ -24,7 +22,7 @@
 
 2. **Prefix:** Let's say you are eating momos. You have four momos on your plate. You ask the waiter to add four more momos to your plate to make it eight momos. Then you started eating. That was what prefix increment called? You updated the value first then did the task. 
 
-**Associativity and Precedence:** 
+## Associativity and Precedence: 
 
 * **Associativity** creates a hierarchy role for different operators to perform mathematical computation
 * **Precedence** ensures which operands will be computed first if multiple operands lie in the same hierarchy. 
