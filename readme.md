@@ -92,6 +92,14 @@ Done a practical part of the task 4.
 * I understood the importance of an algorithm
 * Stepwise refinement.
 
+## Day 13 Learnings
+
+Not done anything
+
+## Day 14 Learnings
+
+Not done anything
+
 
 
 
