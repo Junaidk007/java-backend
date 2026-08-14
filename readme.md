@@ -104,7 +104,9 @@ Not done anything
 
 Learn about preming, dangling else, use of forEach loop Sentinel, top tested and bottom tested loop, and Definite Assignment. 
 
+## Day 16 Learnings
 
+Done 3 practical questions of task-6
 
 
 
