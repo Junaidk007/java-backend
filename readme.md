@@ -100,9 +100,9 @@ Not done anything
 
 Not done anything
 
+## Day 15 Learnings
 
-
-
+Learn about preming, dangling else, use of forEach loop Sentinel, top tested and bottom tested loop, and Definite Assignment. 
 
 
 
