@@ -108,6 +108,9 @@ Learn about preming, dangling else, use of forEach loop Sentinel, top tested and
 
 Done 3 practical questions of task-6
 
+## Day 17 Learnings
+
+Did nothing
 
 
 
