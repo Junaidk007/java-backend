@@ -17,11 +17,11 @@ public class patterngenrator3 {
             int stars;
             int space;
 
-            if(i <= inp/2) {
+            if(i <= (inp + 1)/2) {
                 stars = 2 * i - 1;
                 space = inp - i;
             } else {
-                int j = inp - i;
+                int j = inp - i + 1;
                 stars = 2 * j - 1;
                 space = inp - j;
             }
@@ -39,43 +39,6 @@ public class patterngenrator3 {
             System.out.println();
         }
 
-        // int star1 = inp / 2;
-        // int star2 = inp - star1;
-        
-
-        // for(int i = 1; i <= star1; i++) {
-        //     int stars = 2 * i - 1;
-        //     int space = star1 - i;
-
-            // while (space >= 0) {
-            //     System.out.print(" ");
-            //     space--;
-            // }
-
-            // while (stars > 0) {
-            //     System.out.print("*");
-            //     stars--;
-            // }
-
-        //     System.out.println();
-        // }
-
-        // for(int j = star2; j > 0; j--) {
-        //     int stars = 2 * j - 1;
-        //     int space = star2 - j;
-
-        //     while (space > 0) {
-        //         System.out.print(" ");
-        //         space--;
-        //     }
-
-        //     while (stars > 0) {
-        //         System.out.print("*");
-        //         stars--;
-        //     }
-
-        //     System.out.println();
-        // }
 
         sc.close();
     }
