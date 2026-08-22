@@ -112,6 +112,10 @@ Done 3 practical questions of task-6
 
 Did nothing
 
+## Day 18 - 22 Learnigs
+
+On break
+
 
 
 
