@@ -116,10 +116,22 @@ Did nothing
 
 On break
 
+## Day 23 Learnings
 
+Learned about : 
+- Exception, exception propagation 
+- Errors
+- throw n throws
+- try-catch
+- finally
+- multiple catch
+- Checked n unchecked exceptions 
 
+## Day 24 Learnings
 
-
+Learned about:
+- Collections in Java
+- Got to know about the behavior of collections and how the elements get stored in different collections. 
 
 
 
