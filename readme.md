@@ -133,8 +133,13 @@ Learned about:
 - Collections in Java
 - Got to know about the behavior of collections and how the elements get stored in different collections. 
 
+## Day 25 Learnigs
 
-
+Done practical on collections used diff methods and itreation:
+- ArrayList
+- HashSet
+- HashMap
+ 
 
 
 
